@@ -1,0 +1,5 @@
+SAP ID Service: Log On
+https://accounts.sap.com/saml2/idp/sso?sp=sp.accounts.sap.com&RelayState=https://accounts.sap.com/ui/protected/profilemanagement
+
+Demo Kit: SAP UI5 - biblioteca utilizada para desenvolver aplicativos Fiori.
+https://sapui5.hana.ondemand.com/#/api
